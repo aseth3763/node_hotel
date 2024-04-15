@@ -1,3 +1,5 @@
+//Database file
+
 const mongoose = require("mongoose")
 
 //define the mongodb connection url
